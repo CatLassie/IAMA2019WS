@@ -1,0 +1,7 @@
+.idea/
+venv/
+data/
+# *.flac
+# *.onsets
+# *.beats
+# *.bpm
