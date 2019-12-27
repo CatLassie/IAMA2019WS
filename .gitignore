@@ -1,6 +1,7 @@
 .idea/
 venv/
 data/
+.ipynb_checkpoints/
 # *.flac
 # *.onsets
 # *.beats
