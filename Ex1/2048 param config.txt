@@ -1,0 +1,227 @@
+parameters: 2048 20 0.0
+Signal processing-based onset detection
+Precision: 0.427
+Recall:    0.854
+F-measure: 0.525
+
+parameters: 2048 20 0.1
+Signal processing-based onset detection
+Precision: 0.583
+Recall:    0.826
+F-measure: 0.649
+
+parameters: 2048 20 0.2
+Signal processing-based onset detection
+Precision: 0.728
+Recall:    0.777
+F-measure: 0.733
+
+parameters: 2048 20 0.3
+Signal processing-based onset detection
+Precision: 0.806
+Recall:    0.720
+F-measure: 0.745
+
+parameters: 2048 20 0.4
+Signal processing-based onset detection
+Precision: 0.848
+Recall:    0.668
+F-measure: 0.728
+
+parameters: 2048 20 0.5
+Signal processing-based onset detection
+Precision: 0.869
+Recall:    0.618
+F-measure: 0.698
+
+parameters: 2048 20 0.6
+Signal processing-based onset detection
+Precision: 0.883
+Recall:    0.580
+F-measure: 0.671
+
+parameters: 2048 20 0.7
+Signal processing-based onset detection
+Precision: 0.893
+Recall:    0.542
+F-measure: 0.641
+
+parameters: 2048 20 0.8
+Signal processing-based onset detection
+Precision: 0.888
+Recall:    0.509
+F-measure: 0.610
+
+parameters: 2048 20 0.9
+Signal processing-based onset detection
+Precision: 0.891
+Recall:    0.477
+F-measure: 0.581
+
+parameters: 2048 20 1.0
+Signal processing-based onset detection
+Precision: 0.883
+Recall:    0.448
+F-measure: 0.553
+
+parameters: 2048 40 0.0
+Signal processing-based onset detection
+Precision: 0.426
+Recall:    0.861
+F-measure: 0.525
+
+parameters: 2048 40 0.1
+Signal processing-based onset detection
+Precision: 0.500
+Recall:    0.851
+F-measure: 0.587
+
+parameters: 2048 40 0.2
+Signal processing-based onset detection
+Precision: 0.594
+Recall:    0.834
+F-measure: 0.659
+
+parameters: 2048 40 0.3
+Signal processing-based onset detection
+Precision: 0.686
+Recall:    0.811
+F-measure: 0.718
+
+parameters: 2048 40 0.4
+Signal processing-based onset detection
+Precision: 0.751
+Recall:    0.782
+F-measure: 0.748
+
+parameters: 2048 40 0.5
+Signal processing-based onset detection
+Precision: 0.796
+Recall:    0.754
+F-measure: 0.758
+
+parameters: 2048 40 0.6
+Signal processing-based onset detection
+Precision: 0.826
+Recall:    0.724
+F-measure: 0.753
+
+parameters: 2048 40 0.7
+Signal processing-based onset detection
+Precision: 0.844
+Recall:    0.694
+F-measure: 0.741
+
+parameters: 2048 40 0.8
+Signal processing-based onset detection
+Precision: 0.857
+Recall:    0.667
+F-measure: 0.727
+
+parameters: 2048 40 0.9
+Signal processing-based onset detection
+Precision: 0.867
+Recall:    0.642
+F-measure: 0.712
+
+parameters: 2048 40 1.0
+Signal processing-based onset detection
+Precision: 0.875
+Recall:    0.619
+F-measure: 0.698
+
+parameters: 2048 80 0.0
+Signal processing-based onset detection
+Precision: 0.425
+Recall:    0.863
+F-measure: 0.523
+
+parameters: 2048 80 0.1
+Signal processing-based onset detection
+Precision: 0.457
+Recall:    0.859
+F-measure: 0.551
+
+parameters: 2048 80 0.2
+Signal processing-based onset detection
+Precision: 0.499
+Recall:    0.856
+F-measure: 0.587
+
+parameters: 2048 80 0.3
+Signal processing-based onset detection
+Precision: 0.548
+Recall:    0.849
+F-measure: 0.626
+
+parameters: 2048 80 0.4
+Signal processing-based onset detection
+Precision: 0.598
+Recall:    0.841
+F-measure: 0.664
+
+parameters: 2048 80 0.5
+Signal processing-based onset detection
+Precision: 0.650
+Recall:    0.828
+F-measure: 0.698
+
+parameters: 2048 80 0.6
+Signal processing-based onset detection
+Precision: 0.692
+Recall:    0.816
+F-measure: 0.724
+
+parameters: 2048 80 0.7
+Signal processing-based onset detection
+Precision: 0.726
+Recall:    0.802
+F-measure: 0.740
+
+parameters: 2048 80 0.8
+Signal processing-based onset detection
+Precision: 0.757
+Recall:    0.788
+F-measure: 0.752
+
+parameters: 2048 80 0.9
+Signal processing-based onset detection
+Precision: 0.780
+Recall:    0.772
+F-measure: 0.757
+
+parameters: 2048 80 1.0
+Signal processing-based onset detection
+Precision: 0.800
+Recall:    0.755
+F-measure: 0.759
+
+parameters: 2048 80 1.1
+Signal processing-based onset detection
+Precision: 0.818
+Recall:    0.740
+F-measure: 0.758
+
+parameters: 2048 80 1.2
+Signal processing-based onset detection
+Precision: 0.829
+Recall:    0.725
+F-measure: 0.753
+
+parameters: 2048 80 1.3
+Signal processing-based onset detection
+Precision: 0.840
+Recall:    0.710
+F-measure: 0.747
+
+parameters: 2048 80 1.4
+Signal processing-based onset detection
+Precision: 0.849
+Recall:    0.696
+F-measure: 0.740
+
+parameters: 2048 80 1.5
+Signal processing-based onset detection
+Precision: 0.854
+Recall:    0.682
+F-measure: 0.733
